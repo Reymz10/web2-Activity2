@@ -11,8 +11,8 @@ function App() {
   return (
     <>
     <div className='h-100vh'>
-    <Header name="Andy Lazarte"/>
-      <Contact email="andylzarte@gmail.com " phone="09938901689" address="Poctol, Pilar, Sorsogon"/>
+    <Header name="Viñas, Reymond L."/>
+      <Contact email="vinasreymond911@gmail.com " phone="09319340080" address="Taysan, Legazpi, Albay"/>
       <Skills skill1="JavaScript" skill2="Java" skill3="React"  skill4="Html"  Skill5="C++"/>
       <WorkExp date="2020-2024" date2="2019-2016"/>
     </div>
